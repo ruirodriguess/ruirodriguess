@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://justresults.co.nz/wp-content/uploads/2015/10/web-developer-banner.png" width="100%" title="hover text">
+</p>
+
 <h1 align="center">Hi 👋, I'm Rui Rodrigues</h1>
 <h3 align="center">A developer located in Portugal.</h3>
-
+<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruirodriguess&label=Profile%20views&color=0e75b6&style=flat" alt="ruirodriguess" /> </p>
 
 
@@ -16,7 +20,7 @@
 - 📄 Certifications [www.ruirodrigues.pt/certifications](www.ruirodrigues.pt/certifications)
 
 - ⚡ At the moment **Study DevOps and backend solutions**
-
+<br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ruirodrigues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruirodrigues" height="30" width="40" /></a>
@@ -31,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruirodriguess&show_icons=true&locale=en" alt="ruirodriguess" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruirodriguess&" alt="ruirodriguess" /></p>
+
+https://media.istockphoto.com/vectors/vector-see-you-soon-note-vector-id512059319?k=20&m=512059319&s=170667a&w=0&h=UTlWGkwy1wvrAlwjbJclf8XlZhkSazW8zHbyl-BVi3g=
