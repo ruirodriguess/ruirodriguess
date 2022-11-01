@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruirodriguess" alt="ruirodriguess" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps, Web Developer and Backend**
+- 🌱 I’m currently learning **DevOps, Web Developer and Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ruirodriguess?tab=repositories](https://github.com/ruirodriguess?tab=repositories)
 
