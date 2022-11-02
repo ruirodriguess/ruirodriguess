@@ -35,5 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruirodriguess&show_icons=true&locale=en" alt="ruirodriguess" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruirodriguess&" alt="ruirodriguess" /></p>
-
-https://media.istockphoto.com/vectors/vector-see-you-soon-note-vector-id512059319?k=20&m=512059319&s=170667a&w=0&h=UTlWGkwy1wvrAlwjbJclf8XlZhkSazW8zHbyl-BVi3g=
