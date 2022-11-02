@@ -35,3 +35,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruirodriguess&show_icons=true&locale=en" alt="ruirodriguess" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruirodriguess&" alt="ruirodriguess" /></p>
+
+## Contacts
+
+For any questions, feel free to send an email to ruirodrigues04@outlook.pt
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/ruirodriguess.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
