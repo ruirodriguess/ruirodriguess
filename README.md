@@ -30,7 +30,7 @@
   <thead align="center">
     <tr border: none;>
       <td><b>Project</b></td>
-      <td><b>Reposiory Link</b></td>
+      <td><b>Repository Link</b></td>
       <td><b>Description</b></td>
     </tr>
   </thead>
