@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ruirodriguess?tab=repositories](https://github.com/ruirodriguess?tab=repositories)
 
-- 📝 Take a look ate my website [www.ruirodrigues.pt](www.ruirodrigues.pt)
+- 📝 Take a look ate my website [www.ruirodriguesdev.com](www.ruirodriguesdev.com)
 
 - 📫 How to reach me **ruirodrigues04@outlook.pt**
 
