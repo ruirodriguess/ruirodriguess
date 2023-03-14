@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ruirodrigues04@outlook.pt**
 
-- 📄 Certifications [www.ruirodrigues.com/certifications](www.ruirodrigues.pt/certifications)
+- 📄 Certifications [www.ruirodriguesdev.com](www.ruirodriguesdev.com)
 
 - ⚡ At the moment **Studying DevOps Engineer and backend solutions**
 
