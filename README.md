@@ -71,7 +71,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/ruirodrigues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruirodrigues" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ruirodrigues-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruirodrigues" height="30" width="40" /></a>
 <a href="https://instagram.com/ruirodrigues04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ruirodrigues04" height="30" width="40" /></a>
 <a href="https://discord.gg/ruirodrigues04@outlook.pt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ruirodrigues04@outlook.pt" height="30" width="40" /></a>
 </p>
