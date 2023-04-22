@@ -66,6 +66,16 @@
       <td align="center"><a href="https://github.com/ruirodriguess/DigiBank"><b>Click me</b></a></td>
       <td>Console Application using C#</td>
     </tr>
+    <tr>
+      <td>LiveChat Room</a></td>
+      <td align="center"><a href="https://github.com/ruirodriguess/DigiBank"><b>Click me</b></a></td>
+      <td>Live chat using Python</td>
+    </tr>
+    <tr>
+      <td>Sticky Notes</a></td>
+      <td align="center"><a href="https://github.com/ruirodriguess/Notes-WebApp"><b>Click me</b></a></td>
+      <td>Notes WebApp using Python</td>
+    </tr>
   </tbody>
 </table>
 
