@@ -63,7 +63,7 @@
     </tr>
     <tr>
       <td>Digi Bank</a></td>
-      <td align="center"><a href="github.com/ruirodriguess/DigiBank"><b>Click me</b></a></td>
+      <td align="center"><a href="https://github.com/ruirodriguess/DigiBank"><b>Click me</b></a></td>
       <td>Console Application using C#</td>
     </tr>
   </tbody>
