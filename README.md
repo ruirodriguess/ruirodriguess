@@ -58,14 +58,17 @@
     </tr>
     <tr>
       <td>Mario Jump</a></td>
-      <td align="center"><a href="github.com/ruirodriguess/MarioJump-Game"><b>Click me</b></a></td>
+      <td align="center"><a href="[github.com/ruirodriguess/MarioJump-Game
+
+    </tr>](https://github.com/ruirodriguess/MarioJump-Game)"><b>Click me</b></a></td>
       <td>Game using HTML, CSS & JavaScript</td>
     </tr>
     <tr>
       <td>Digi Bank</a></td>
       <td align="center"><a href="https://github.com/ruirodriguess/DigiBank"><b>Click me</b></a></td>
-      <td>Console Application using C#</td>
-    </tr>
+      <td>Console Application using C#</td>[github.com/ruirodriguess/MarioJump-Game
+
+    </tr>](https://github.com/ruirodriguess/MarioJump-Game)
     <tr>
       <td>LiveChat Room</a></td>
       <td align="center"><a href="https://github.com/ruirodriguess/DigiBank"><b>Click me</b></a></td>
