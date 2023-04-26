@@ -60,8 +60,7 @@
       <td>Digi Bank</a></td>
       <td align="center"><a href="https://github.com/ruirodriguess/DigiBank"><b>Click me</b></a></td>
       <td>Console Application using C#</td>[github.com/ruirodriguess/MarioJump-Game</td>
-
-    </tr>](https://github.com/ruirodriguess/MarioJump-Game)
+    </tr>]
     <tr>
       <td>LiveChat Room</a></td>
       <td align="center"><a href="https://github.com/ruirodriguess/DigiBank"><b>Click me</b></a></td>
