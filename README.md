@@ -68,7 +68,7 @@
     </tr>
     <tr>
       <td>LiveChat Room</a></td>
-      <td align="center"><a href="https://github.com/ruirodriguess/DigiBank"><b>Click me</b></a></td>
+      <td align="center"><a href="https://github.com/ruirodriguess/LiveChatRoom"><b>Click me</b></a></td>
       <td>Live chat using Python</td>
     </tr>
     <tr>
