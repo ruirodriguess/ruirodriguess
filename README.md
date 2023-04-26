@@ -91,7 +91,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruirodriguess&show_icons=true&locale=en" alt="ruirodriguess" /></p>
 
 
-## Contacts
+## Contacts 
 
 For any questions, feel free to send an email to ruirodrigues04@outlook.pt
 
